@@ -4,4 +4,4 @@ Hello World program
 
 java - selenium testing
 
-Maven
+Maven build mgnt tool
